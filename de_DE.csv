@@ -14326,3 +14326,11 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "My Account","My Account",theme,frontend/Magento/luma
 "Address Book","Adressbuch",theme,frontend/Magento/luma
 "Account Information","Kontoinformation",theme,frontend/Magento/luma
+"Your %storeName Order #%orderNumber confirmation","Ihre %storeName Bestellbestätigung #%orderNumber",module,Magento_Email
+"We’ve received your refund request to the jewelry items shown below from %store_name.","Wir haben Ihr Rückerstattungsantrag für die unten gezeigten Schmuckartikel von %store_name erhalten.",module,Magento_Sales
+"Your refund should hit your account between 3-5 business days.","Ihre Erstattung sollte innerhalb von 3-5 Werktagen auf Ihr Konto gelangen.",module,Magento_Sales
+"If you have any questions, you can email us at <a href='mailto:%store_email'>%store_email</a>","Wenn Sie Fragen haben, können Sie uns eine E-Mail an <a href='mailto:%store_email'>%store_email</a>",module,Magento_Sales
+"or call us at <a href='tel:%store_phone'>%store_phone</a>","senden oder uns unter <a href='tel:%store_phone'>%store_phone</a> anrufen",module,Magento_Sales
+"Items In Your Order <span class='no-link'>#%increment_id</span>","Artikel in Ihrer Bestellung <span class='no-link'>#%increment_id</span>",module,Magento_Sales
+"Our working hours are <span class='no-link'>%store_hours</span>.","Unsere Arbeitszeiten sind <span class='no-link'>%store_hours</span> Uhr.",module,Magento_Sales
+"Your Shipment Details for Order #%order_id","Ihre Lieferungdetails für Bestellung #%order_id",module,Magento_Sales
